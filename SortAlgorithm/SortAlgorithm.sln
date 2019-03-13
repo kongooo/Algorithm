@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm", "Algorithm\Algorithm.vcxproj", "{69C70D5C-657E-49B2-90B9-50BBC16CB148}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortAlgorithm", "SortAlgorithm\Algorithm.vcxproj", "{69C70D5C-657E-49B2-90B9-50BBC16CB148}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

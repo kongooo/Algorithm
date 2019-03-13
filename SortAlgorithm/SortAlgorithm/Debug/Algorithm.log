@@ -1,3 +1,6 @@
-﻿  Sort.cpp
-c:\users\13125\source\repos\algorithm\algorithm\sort.cpp(14): warning C4326: “main”的返回类型应为“int”而非“void”
-  Algorithm.vcxproj -> C:\Users\13125\source\repos\Algorithm\Debug\Algorithm.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Algorithm.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Sort.cpp
+c:\users\13125\source\repos\algorithm\sortalgorithm\sortalgorithm\sort.cpp(11): warning C4326: “main”的返回类型应为“int”而非“void”
+  List.cpp
+  正在生成代码...
+  Algorithm.vcxproj -> C:\Users\13125\source\repos\Algorithm\SortAlgorithm\Debug\SortAlgorithm.exe
